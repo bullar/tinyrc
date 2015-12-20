@@ -1,0 +1,1 @@
+TinyRC is a small PCB for mixing and generating RC servo signals at the receiver side. The Hardware is based on Atmels AVR Tiny45 or Tiny85 microcontroller, software is written in GCC.
